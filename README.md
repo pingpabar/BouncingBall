@@ -1,6 +1,6 @@
-bouncingball
+BouncingBall
 ============
 
-Simple App for Android that allows interact with a bouncing ball on the screen.
+Simple App for Android that allows interact witha a bouncing ball on the screen.
 
-@Author: Pablo Piqueras Bartolomé - pingpabar
+Author: Pablo Piqueras Bartolomé - pingpabar
