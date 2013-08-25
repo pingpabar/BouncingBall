@@ -5,6 +5,8 @@ import android.app.Activity;
 import android.view.Menu;
 
 /**
+ * Pelota que rebota por la pantalla y actúa al pulsarla.
+ * 
  * Author: pingpabar
  */
 public class BouncingBallActivity extends Activity {
